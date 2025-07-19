@@ -38,5 +38,5 @@ https://kammageethanjlai.github.io/advanced-html-demo/
 ✅ Meta tags (charset, viewport, description)
 ✅ Favicon
 
-✨ Added CSS styling to make the page clean and modern.
 
+✨ Added CSS styling to make the page clean and modern.
